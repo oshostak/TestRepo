@@ -1,0 +1,32 @@
+div{
+    padding: 2%; 
+    background-color: #c08736;
+}
+
+#navigation_div{
+    background-color: beige;
+}
+
+.content_div{
+    background-color: cadetblue;
+}
+
+h1{
+    text-align: center;
+}
+
+p{
+    text-align: justify;
+    margin: 0;
+}
+
+#first_text{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: lighter;
+    color:lavender;
+    text-transform: uppercase;
+}
+
+#second_text{
+    font-family: 'Roboto', sans-serif;
+}
